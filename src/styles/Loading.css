@@ -1,0 +1,18 @@
+#loading{
+  position: absolute;
+  z-index: 4;
+  left: 450px;
+  top: 310px;
+   
+}
+
+#loading h5{
+  width: 500px;
+  color: white;
+ }
+
+.spinner {
+  margin-right: 10px;
+  color: white;
+    
+  }

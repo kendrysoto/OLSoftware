@@ -1,0 +1,110 @@
+.boxPrev{
+    background-color: white;
+    height: 50px;  
+}
+
+#iconLogin{
+    width: 200px;
+    float: right;
+    margin-right: -100px;
+    margin-top: 20px; 
+}
+
+h6{
+    width: 200px;
+    float: right;
+    margin-right: -20px;
+    margin-top: 16px;
+}
+
+.prevButton{
+    width: 10px;
+    float: right;
+    margin-top: 7px;
+    margin-right: 60px; 
+}
+
+.login{
+    background-color: white;
+    width: 350px;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 34px;
+    float: left;
+    margin-left: 870px;
+    margin-top: -470px;
+    position: absolute;
+    z-index: 2;
+    box-shadow: 2px 2px 5px #c3c3c3;
+}
+
+.text-login{
+    color:  #0f9b0f;
+    font-size: 20px;
+    margin: 0px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.login input{
+    border: none;
+    width: 80%;
+    padding: 9px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #d9e4ac;
+}
+
+.login label{
+    color: #0f9b0f;
+    font-weight: 500;
+    float: left;
+    margin-left: 34px;
+}
+
+.button-login{
+    background-color:  #3f48cc;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    width: 80%;
+    font-size: 16px;
+    font-weight: bold;  
+}
+
+.user-not-login{
+    position: absolute;
+    bottom:  -180px;
+    right: 80px;
+    z-index: 2;
+    font-size: 14px;
+    width: 200px;
+}
+
+.user-not-login p{
+    color: red;   
+}
+
+.welcome-user p{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.input-icons i {
+    position: absolute;
+    left: 290px;
+    top: 90px;
+}
+
+#iconPassword{
+    position: absolute;
+    left: 290px;
+    top: 165px;
+    
+}
+

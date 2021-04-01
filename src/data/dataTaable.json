@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Daniel",
+        "id": 1,
+        "lastName": "Ramirez",
+        "identification": "1143356256",
+        "role": "Administrador",
+        "state": "Activo",
+        "phone": "3125624521",
+        "email": "dani12@gmail.com"
+    },
+    {
+        "name": "Roberto",
+        "id": 2,
+        "lastName": "Ramirez",
+        "identification": "1143356256",
+        "role": "Administrador",
+        "state": "Activo",
+        "phone": "3125624521",
+        "email": "dani12@gmail.com"
+    },
+    {
+        "name": "Damaris",
+        "id": 3,
+        "lastName": "Morales",
+        "identification": "1143356256",
+        "role": "Administrador",
+        "state": "Activo",
+        "phone": "3125624521",
+        "email": "dani12@gmail.com"
+    },
+    {
+        "name": "Nuris",
+        "id": 4,
+        "lastName": "Bello",
+        "identification": "1143356256",
+        "role": "Administrador",
+        "state": "Activo",
+        "phone": "3125624521",
+        "email": "dani12@gmail.com"
+    },
+    {
+        "name": "Kevin",
+        "id": 5,
+        "lastName": "Morales",
+        "identification": "1143356256",
+        "role": "Administrador",
+        "state": "Activo",
+        "phone": "3125624521",
+        "email": "dani12@gmail.com"
+    },
+    {
+        "name": "Kevin",
+        "id": 6,
+        "lastName": "Morales",
+        "identification": "1143356256",
+        "role": "Administrador",
+        "state": "Activo",
+        "phone": "3125624521",
+        "email": "dani12@gmail.com"
+    },
+    {
+        "name": "Kevin",
+        "id": 7,
+        "lastName": "Morales",
+        "identification": "1143356256",
+        "role": "Administrador",
+        "state": "Activo",
+        "phone": "3125624521",
+        "email": "dani12@gmail.com"
+    },
+    {
+        "name": "Kevin",
+        "id": 8,
+        "lastName": "Morales",
+        "identification": "1143356256",
+        "role": "Administrador",
+        "state": "Activo",
+        "phone": "3125624521",
+        "email": "dani12@gmail.com"
+    }
+]
